@@ -81,7 +81,7 @@ dependencies:
   watcher: ^1.0.2
   web_socket_channel: ^2.3.0
   webkit_inspection_protocol: ^1.2.0
-  win32: ^4.1.0
+  win32: ^5.0.0
   yaml: ^3.1.1
 dev_dependencies: 
   hex: ^0.2.0
