@@ -24,7 +24,10 @@ dependencies:
   coverage: ^1.6.2
   crypto: ^3.0.2
   csv: ^5.0.2
-  dart_console2: ^3.0.0
+  dart_console: 
+    git: 
+      url: https://github.com/Linkadi98/dart_console.git
+      ref: main
   dcli_core: ^3.0.2
   equatable: ^2.0.5
   ffi: ^2.0.2
