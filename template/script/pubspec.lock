@@ -145,28 +145,29 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "5.0.2"
-  dart_console2:
+  dart_console:
     dependency: transitive
     description:
-      name: dart_console2
-      sha256: "300833ffdd8c465d454cb5007c7f29d28ac8246af5abd922f8c490e1e87c894f"
-      url: "https://pub.dev"
-    source: hosted
-    version: "3.0.0"
+      path: "."
+      ref: main
+      resolved-ref: fd58d4db89e2ff567cff39b59615fcd72828f285
+      url: "https://github.com/Linkadi98/dart_console.git"
+    source: git
+    version: "1.1.2"
   dcli:
     dependency: "direct main"
     description:
       path: "../../dcli"
       relative: true
     source: path
-    version: "3.0.1"
+    version: "3.0.2"
   dcli_core:
     dependency: "direct main"
     description:
       path: "../../dcli_core"
       relative: true
     source: path
-    version: "3.0.1"
+    version: "3.0.3"
   equatable:
     dependency: transitive
     description:
@@ -627,10 +628,10 @@ packages:
     dependency: transitive
     description:
       name: win32
-      sha256: "5a751eddf9db89b3e5f9d50c20ab8612296e4e8db69009788d6c8b060a84191c"
+      sha256: dfdf0136e0aa7a1b474ea133e67cb0154a0acd2599c4f3ada3b49d38d38793ee
       url: "https://pub.dev"
     source: hosted
-    version: "4.1.4"
+    version: "5.0.5"
   yaml:
     dependency: transitive
     description:
